@@ -16,7 +16,7 @@
 
 ## 🧰 Tech Stack
 
-- **Frontend**: React, Axios, React Router
+- **Frontend**: React
 - **Backend**: Node.js, Express
 - **Database**: MongoDB (via MongoDB Atlas)
 - **Image Upload**: Cloudinary
